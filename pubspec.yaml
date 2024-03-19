@@ -1,4 +1,4 @@
-name: forms
+name: formfield
 description: "Helper package to create common form fields needed in most apps."
 version: 0.0.1
 homepage: https://pwa.ir
