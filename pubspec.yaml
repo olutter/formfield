@@ -1,7 +1,8 @@
 name: forms
 description: "Helper package to create common form fields needed in most apps."
 version: 0.0.1
-homepage:
+homepage: https://pwa.ir
+repository: https://github.com/xclud/flutter-forms
 
 environment:
   sdk: '>=2.12.0 <4.0.0'
