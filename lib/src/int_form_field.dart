@@ -1,4 +1,4 @@
-part of '../forms.dart';
+part of '../formfield.dart';
 
 /// Int form field.
 class IntFormField extends FormField<int> {

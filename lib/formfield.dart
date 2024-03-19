@@ -1,5 +1,5 @@
 /// Helper package to create common form fields needed in most apps.
-library forms;
+library formfield;
 
 import 'package:flutter/material.dart';
 

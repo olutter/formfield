@@ -1,4 +1,4 @@
-part of '../forms.dart';
+part of '../formfield.dart';
 
 /// Radio form field item.
 class RadioFormFieldItem<T> {
