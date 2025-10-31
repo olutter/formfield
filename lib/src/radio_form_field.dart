@@ -41,8 +41,6 @@ class RadioFormField<T> extends FormField<T> {
                   (e) => RadioListTile<T>(
                     title: e.title,
                     subtitle: e.subtitle,
-                    onChanged: state.didChange,
-                    groupValue: state.value,
                     value: e.value,
                   ),
                 )
